@@ -1,0 +1,48 @@
+title: My personal blog - Alex Lee
+email: ys88.lee@gmail.com
+description: >
+  Hello guys, this is my first personal blog and playground.
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://alex2006-kor.github.io
+
+# Author settings
+author: Alex2006 # add your name
+author-pic: common/face_alex.jpg
+about-author: Hello everybody My name is Alex :)
+
+# Contact links
+email: ys88.lee@gmail.com
+#phone: # Add your Phone number
+website: https://alex2006-kor.github.io
+#linkedin: # Add your Linkedin handle
+github: alex2006-kor # Add your Github handle
+#twitter: '@artemsheludko_' # Add your Twitter handle
+#facebook: # Add your Facebook handle
+#instagram: # Add your Instagram handle
+#pinterest: # Add your Pinterest handle
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: alexs-blog-8
+
+# Tracker
+analytics: UA-156074690-1
+
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
