@@ -22,12 +22,14 @@ Everything was really great but among them,
 Because I think it took almost or hours to get there by bus which was definitly a lot hours on the road.
 So of course, I felt tired on the way to there but when I arrived there I felt it was worth it.
 
-![picture]({{site.baseurl}}/assets/img/workplace/20200225/picture.jpg){: .center}
+![picture]({{site.baseurl}}/assets/img/workplace/20200225/landscape.jpg){: .center}
 
 끝이 보이지 않는 지평선 사이를 지나는 시골길을 따라 자라난 사이플러스 나무들 앞에 서면
 로마를 배경으로 한 영화의 한 장면에 내가 서 있는 듯한 느낌이었다.
 > When I stood in front of the cypress trees growing along the road between the invisible horizon,
 I felt I was standing in a scene of a movie set in 'Rome'.
+
+![picture]({{site.baseurl}}/assets/img/workplace/20200225/picture.jpg){: .center}
 
 Toscana 지역은 끝없이 펼쳐진 완만한 언덕들과 올리브 나무, 사이플러스 나무로 유명한데,
 우리 부부가 서있던 그 길을 그려보았다
@@ -35,3 +37,5 @@ Toscana 지역은 끝없이 펼쳐진 완만한 언덕들과 올리브 나무, �
 I painted this landscape whoch I took picture as the road our couple stood on.
 
 ![toscana]({{site.baseurl}}/assets/img/workplace/20200225/toscana.jpg){: .center}
+
+<center><span style="color:navy">Memory in Toscana</span></center>

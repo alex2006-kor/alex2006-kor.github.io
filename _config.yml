@@ -3,7 +3,7 @@ email: ys88.lee@gmail.com
 description: >
   Hello guys, this is my first personal blog and playground.
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://alex2006-kor.github.io
 
 # Author settings
