@@ -17,9 +17,9 @@ permalink: /workplace/
         <img src="{{site.baseurl}}/assets/img/workplace/{{ post.date | date: "%Y%m%d"}}/thumbnail.jpg">
     </a></p>
     <p><span>&nbsp;&nbsp;- {{ post.description }}</span></p>
-    {% if post != post.last %}
+    {% unless forloop.last %}
         <hr width="270px" align="left" color="silver">
-    {% endif %}
+    {% endunless %}
 </div>
 {% endif %}{% endfor %}
 </section>
