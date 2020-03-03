@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Memory in Toscana
-date: 2020-02-25 00:25:20 +0300
+date: 2020-02-25 13:25:20 +0300
 description: Painting Toscana landscape
 img: workplace/20200225/title.jpg
 category: [Workplace]
