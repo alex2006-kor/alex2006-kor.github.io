@@ -12,7 +12,10 @@ author: Alex2006
 2018년 7월 유난히 덥던 여름에 부모님, 동생, 와이프  사랑하는 가족 모두 함께
 이탈이라와 스위스 여행을 다녀왔다.
 온가족이 함께여서 더 의미가 있었는데 특히 첫번째로 방문했던 Toscana 지역이 기억에 남았다.
-> 
+> I have been Italy and Switzerland last July 2018 with my lovely whole family including parents and bro.
+It was more meaningful because everyone was together.
+Everything was really great but among them,
+'Toscana' that I first time visited, is the most memorable thing for me.
 
 로마로부터 상당히 멀리 떨어져 있어 가는데 많이 힘들었지만 그곳의 풍경은 가치가 있었다.
 >
