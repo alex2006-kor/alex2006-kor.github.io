@@ -18,7 +18,9 @@ Everything was really great but among them,
 'Toscana' that I first time visited, is the most memorable thing for me.
 
 로마로부터 상당히 멀리 떨어져 있어 가는데 많이 힘들었지만 그곳의 풍경은 가치가 있었다.
->
+> Actually 'Toscana' was pretty far from the 'Rome'.
+Because I think it took almost or hours to get there by bus which was definitly a lot hours on the road.
+So of course, I felt tired on the way to there but when I arrived there I felt it was worth it.
 
 ![picture]({{site.baseurl}}/assets/img/workplace/20200225/picture.jpg){: .center}
 
