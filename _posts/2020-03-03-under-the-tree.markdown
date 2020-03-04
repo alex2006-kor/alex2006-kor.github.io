@@ -48,6 +48,10 @@ and I feel protected by its abudant leaves.
 </span>
 
 
+![with-you]({{site.baseurl}}/assets/img/workplace/20200303/with-you.jpg){: .center}
+**<center><span style="color:navy">With you</span></center>**  
+
+
 <span style="color:gray">
 부족한 실력이지만 점점 나아질거라고 생각합니다.
 </span>
@@ -56,8 +60,5 @@ and I feel protected by its abudant leaves.
 My painting is not good but it will be better and better soon, I think. :)
 </span>
 
-
-![with-you]({{site.baseurl}}/assets/img/workplace/20200303/with-you.jpg){: .center}
-**<center><span style="color:navy">With you</span></center>**  
 
 ------
