@@ -5,7 +5,7 @@ date: 2020-03-03 13:00:00 +0300
 description: Painting couple under the tree
 img: workplace/20200303/title.jpg
 category: [Workplace]
-tags: [Blog, Painting]
+tags: [Blog, Painting, Tree]
 author: Alex2006
 ---
   
@@ -36,6 +36,7 @@ Actually these days, I get quite stress because of my job and it makes me feel s
 So I feel I need to do something to refresh myself.
 </span>
 
+![painting]({{site.baseurl}}/assets/img/workplace/20200303/painting.jpg){: .center}
 
 <span style="color:gray">
 무엇을 그려야할지 모를때면 나무를 그리는데, 땅에 단단하게 서 있는 모습은 안정감을 주고,
