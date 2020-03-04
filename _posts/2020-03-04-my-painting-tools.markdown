@@ -1,11 +1,11 @@
 ---
 layout: post
 title: My painting tools
-date: 2020-03-04 13:00:00 +0300
+date: 2020-03-04 10:00:00 +0300
 description: Introduce my painting tools
 img: workplace/20200304/title.jpg
 category: [Workplace]
-tags: [Blog, Painting, SU:FEEL]
+tags: [Blog, Painting, SUFEEL]
 author: Alex2006
 ---
   
