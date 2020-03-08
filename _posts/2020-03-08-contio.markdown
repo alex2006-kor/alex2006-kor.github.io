@@ -1,0 +1,55 @@
+---
+layout: post
+title: TDB
+date: 2020-03-08 12:00:00 +0300
+description: TDB
+img: workplace/20200308/title.jpg
+category: [Workplace]
+tags: [Blog, Painting]
+author: Alex2006
+---
+  
+  
+------
+<span style="color:gray">
+TBD
+</span>  
+
+> <span style="color:silver">
+TBD
+</span>
+
+![tools]({{site.baseurl}}/assets/img/workplace/20200308/contio.jpg){: .center}
+**<center><span style="color:navy">Painting Tools</span></center>** 
+
+<span style="color:gray">
+TBD
+</span>
+
+> <span style="color:silver">
+TBD
+</span>
+
+![brush1]({{site.baseurl}}/assets/img/workplace/20200308/romantic.jpg){: .center}
+**<center><span style="color:navy">Brush</span></center>** 
+
+<span style="color:gray">
+TBD
+</span>
+
+> <span style="color:silver">
+TBD
+</span>
+
+![brush2]({{site.baseurl}}/assets/img/workplace/20200308/flower.jpg){: .center}
+**<center><span style="color:navy">Brush</span></center>**  
+
+<span style="color:gray">
+TBD
+</span>
+
+> <span style="color:silver">
+TBD
+</span>
+
+------
