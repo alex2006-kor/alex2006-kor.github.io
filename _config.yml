@@ -1,7 +1,7 @@
-title: My personal blog - Alex Lee
+title: Alex's Dope-Lab
 email: ys88.lee@gmail.com
 description: >
-  Hello guys, this is my first personal blog and playground.
+  Hello guys, this is my personal blog and playground.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://alex2006-kor.github.io
@@ -10,6 +10,7 @@ url: https://alex2006-kor.github.io
 author: Alex2006 # add your name
 author-pic: common/face_alex.jpg
 about-author: Hello everybody My name is Alex :)
+I don't know but I'll do best... Not everyone?
 
 # Contact links
 email: ys88.lee@gmail.com
