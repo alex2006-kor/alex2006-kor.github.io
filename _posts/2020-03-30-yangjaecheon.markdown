@@ -1,8 +1,9 @@
 ---
 layout: post
-title: TBD
+title: Take a short rest
 date: 2020-03-30 12:00:00 +0300
-description: TBD
+description: This is the landscape painting which is my experience when I took a walk at yangjae-cheon last weekend.
+my expression about the scene 
 img: workplace/20200330/title.jpg
 category: [Workplace]
 tags: [Blog, Painting, Yangjaecheon]
