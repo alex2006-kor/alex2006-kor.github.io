@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Take a short rest
+title: Window
 date: 2020-04-15 12:00:00 +0300
 description: This is the landscape painting which is seen through stone window
 img: workplace/20200415/title.jpg
