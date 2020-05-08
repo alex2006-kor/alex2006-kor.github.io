@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Take a short rest
+title: Sonata of light
 date: 2020-05-06 12:00:00 +0300
 description: This is the Sonata of Light painting in Oakvalley
 img: workplace/20200506/title.jpg
