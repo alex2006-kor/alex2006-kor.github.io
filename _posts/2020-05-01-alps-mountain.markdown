@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Take a short rest
+title: Alps mountain
 date: 2020-05-01 12:00:00 +0300
 description: This is the landscape painting which is my Alps family travel.
 img: workplace/20200501/title.jpg
