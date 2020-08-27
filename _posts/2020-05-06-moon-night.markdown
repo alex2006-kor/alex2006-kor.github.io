@@ -12,29 +12,33 @@ author: Alex2006
   
 ------
 <span style="color:gray">
-TBD
+지난 겨울 살이 베이는듯한 바람이 부는 어느날 오크벨리에서 하룻밤을 보내고
+오크밸리 안에 야외전시된 소나타 오브 라이트를 관람했습니다.
+산책로를 따라 전시된 조명들이 무척이나 신기했지만 무엇보다 어두운 밤을 환하게 밝혀주는
+둥그런 달 조형이 너무나도 예쁜 곳이었습니다.
 </span>  
 
 > <span style="color:silver">
 TBD
 </span>
 
-![MoonNight]({{site.baseurl}}/assets/img/workplace/20200506/MoonNight.jpg){: .center}
-**<center><span style="color:navy">YangJae-cheon</span></center>** 
+![moon]({{site.baseurl}}/assets/img/workplace/20200506/MoonNight.jpg){: .center}
+**<center><span style="color:navy">Moon</span></center>** 
 
 <span style="color:gray">
-TBD
+항상 그림을 그릴 때 대상을 생각하고 그리지만 똑같게 그리진 못하는거 같습니다.
+그림자의 표현이 사실적이진 않지만 지금 이대로의 느낌도 좋은거 같네요.
 </span>
 
 > <span style="color:silver">
 TBD
 </span>
 
-![Moon]({{site.baseurl}}/assets/img/workplace/20200506/Moon.jpg){: .center}
-**<center><span style="color:navy">Take a short rest</span></center>** 
+![together]({{site.baseurl}}/assets/img/workplace/20200506/Moon.jpg){: .center}
+**<center><span style="color:navy">Together</span></center>** 
 
 <span style="color:gray">
-TBD
+전혀 늘 기미가 보이지 않는 그림실력... :p
 </span>
 
 > <span style="color:silver">
