@@ -23,8 +23,8 @@ author: Alex2006
 TBD
 </span>
 
-![Window]({{site.baseurl}}/assets/img/workplace/20200415/Window.jpg){: .center}
-**<center><span style="color:navy">YangJae-cheon</span></center>** 
+![window]({{site.baseurl}}/assets/img/workplace/20200415/Window.jpg){: .center}
+**<center><span style="color:navy">Window</span></center>** 
 
 <span style="color:gray">
 거대한 창 안에 담겨 있는 풍경이 아름다운 곳.
@@ -34,8 +34,8 @@ TBD
 TBD
 </span>
 
-![Jeju]({{site.baseurl}}/assets/img/workplace/20200415/Jeju.jpg){: .center}
-**<center><span style="color:navy">Take a short rest</span></center>** 
+![yuminart]({{site.baseurl}}/assets/img/workplace/20200415/Jeju.jpg){: .center}
+**<center><span style="color:navy">YuminArt</span></center>** 
 
 <span style="color:gray">
 풍경화는 전혀 나아지지 않습니다.
