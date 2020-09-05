@@ -19,7 +19,8 @@ author: Alex2006
 </span>  
 
 > <span style="color:silver">
-TBD
+Well Yangjae-cheon that I'd like to go to is very close to Un-nam high school which is in-front of my place. You know it really is just around the corner of my place.
+So I can easily walk there whenever I want to go. I can enjoy really most beautiful cherry blossom than any place in spring. Passing the blue summer and Maple tree's leaves change their color to red, finally I can meet the winter.
 </span>
 
 ![yangjaecheon]({{site.baseurl}}/assets/img/workplace/20200331/yangjaecheon.jpg){: .center}
@@ -31,7 +32,7 @@ TBD
 </span>
 
 > <span style="color:silver">
-TBD
+After late lunch, for awhile I walked along the Yangjae-cheon. And when I came back home, I painted this landscape.
 </span>
 
 ![brush1]({{site.baseurl}}/assets/img/workplace/20200331/rest.jpg){: .center}
@@ -42,6 +43,6 @@ TBD
 </span>
 
 > <span style="color:silver">
-TBD
+My painting of landscape gives to me feel weird and not pretty but I think I hope that it is my own way of expression about painting.
 </span>
 ------
