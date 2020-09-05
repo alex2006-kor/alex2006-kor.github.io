@@ -19,7 +19,8 @@ author: Alex2006
 </span>  
 
 > <span style="color:silver">
-TBD
+Last winter was a severe cold that I'd never experienced before. I stayed one night at Oakvally and then I saw the Sonata of light which is exhibited in Oakvally.
+The lights which were exhibited belong to the walking trails were amazing but above all the light that has moon shape was the most beatiful things. Because it brightened up the darkness.
 </span>
 
 ![moon]({{site.baseurl}}/assets/img/workplace/20200506/MoonNight.jpg){: .center}
