@@ -26,9 +26,9 @@ Previously, I've never imagine that I paint for refreshing myself because when I
 최근에 정신적으로 지쳐있다고 느꼈는데, 우울한 기분을 해소하기 위해 가볍게 집중할수 있는 미니멀한 취미를 한가지 갖고 싶었습니다.
 우연히 신논현역 교보문고에서 와이프 필기구를 사러 갔다가 휴대하기 간편하고 부담스럽지 않게 어느 장소에서건 사용할수 있는 수채화 용품을 발견하여 그림을 시작하게 되었습니다.
 </span>
-These days, I feel I need to do something to refresh myself like very easy to enjoy it. When I visited Kyobo-book store for buying my wife's pencils at Shin-Nonhyeon station, I came cross these very useful and easy to use tools there. So I started to painting based on this opportunity.
+
 > <span style="color:silver">
-TBD
+These days, I feel I need to do something to refresh myself like very easy to enjoy it. When I visited Kyobo-book store for buying my wife's pencils at Shin-Nonhyeon station, I came cross these very useful and easy to use tools there. So I started to painting based on this opportunity.
 </span>
 
 ![tools]({{site.baseurl}}/assets/img/workplace/20200304/tools.jpg){: .center}
