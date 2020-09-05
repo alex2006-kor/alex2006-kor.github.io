@@ -18,14 +18,15 @@ author: Alex2006
 </span>  
 
 > <span style="color:silver">
-TBD
+Today, I'm going to talk about my painting tools.  
+Previously, I've never imagine that I paint for refreshing myself because when I was young, it made me very boring and not funny.
 </span>
 
 <span style="color:gray">
 최근에 정신적으로 지쳐있다고 느꼈는데, 우울한 기분을 해소하기 위해 가볍게 집중할수 있는 미니멀한 취미를 한가지 갖고 싶었습니다.
 우연히 신논현역 교보문고에서 와이프 필기구를 사러 갔다가 휴대하기 간편하고 부담스럽지 않게 어느 장소에서건 사용할수 있는 수채화 용품을 발견하여 그림을 시작하게 되었습니다.
 </span>
-
+These days, I feel I need to do something to refresh myself like very easy to enjoy it. When I visited Kyobo-book store for buying my wife's pencils at Shin-Nonhyeon station, I came cross these very useful and easy to use tools there. So I started to painting based on this opportunity.
 > <span style="color:silver">
 TBD
 </span>
@@ -38,7 +39,7 @@ SU:FEEL이라고 하는 워터브러쉬인데, 부피가 큰 물통과 여러 �
 </span>
 
 > <span style="color:silver">
-TBD
+This is kind of water-brush called "SU:FEEL", this brush can paint without big water pail. So I think it is very attractive tool.
 </span>
 
 ![brush1]({{site.baseurl}}/assets/img/workplace/20200304/brush1.jpg){: .center}
@@ -49,7 +50,7 @@ TBD
 </span>
 
 > <span style="color:silver">
-TBD
+If you fill the water into this brush before painting and when you need to wet brush, just you can get this through pushing the brush's body and flow the water into palette.
 </span>
 
 ![brush2]({{site.baseurl}}/assets/img/workplace/20200304/brush2.jpg){: .center}
@@ -60,7 +61,7 @@ TBD
 </span>
 
 > <span style="color:silver">
-TBD
+This palette is made by same manufacturer, has total 33 kinds of colors but I can't use whole that because I'm not good at painting.
 </span>
 
 ![palette]({{site.baseurl}}/assets/img/workplace/20200304/palette.jpg){: .center}
@@ -71,7 +72,7 @@ TBD
 </span>
 
 > <span style="color:silver">
-TBD
+Still I'm not good at paint but I try to paint my emotion that I think rather than paint well.
 </span>
 
 ------
