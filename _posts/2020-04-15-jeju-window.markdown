@@ -31,7 +31,7 @@ TBD
 </span>
 
 > <span style="color:silver">
-TBD
+The beautiful place which has a great landscape on the big window.
 </span>
 
 ![yuminart]({{site.baseurl}}/assets/img/workplace/20200415/Jeju.jpg){: .center}
@@ -42,6 +42,6 @@ TBD
 </span>
 
 > <span style="color:silver">
-TBD
+Painting of landscape is not improved at all.
 </span>
 ------

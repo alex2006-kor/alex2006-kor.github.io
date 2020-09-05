@@ -16,7 +16,7 @@ author: Alex2006
 </span>  
 
 > <span style="color:silver">
-TBD
+The Alps is beautiful place. The clean and light blue sky can make me throw off the all of worries.
 </span>
 
 ![AlpsMountain]({{site.baseurl}}/assets/img/workplace/20200501/AlpsMountain.jpg){: .center}
@@ -28,7 +28,7 @@ TBD
 </span>
 
 > <span style="color:silver">
-TBD
+I lose my confidence. Becasue I think I made Alps' clean and pure landscape to cloudy. But I hope to it is getting better...
 </span>
 
 ![Alps]({{site.baseurl}}/assets/img/workplace/20200501/Alps.jpg){: .center}
@@ -39,6 +39,6 @@ TBD
 </span>
 
 > <span style="color:silver">
-TBD
+For a while, I think I will can't paint landscape......
 </span>
 ------

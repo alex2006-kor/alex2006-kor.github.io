@@ -31,7 +31,7 @@ TBD
 </span>
 
 > <span style="color:silver">
-TBD
+Whenever I paint, I think I can't paint realistically especially expreesion of shadow is not good. But I like this too.
 </span>
 
 ![together]({{site.baseurl}}/assets/img/workplace/20200506/Moon.jpg){: .center}
@@ -42,6 +42,6 @@ TBD
 </span>
 
 > <span style="color:silver">
-TBD
+Still not good.... :P
 </span>
 ------
