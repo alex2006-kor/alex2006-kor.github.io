@@ -18,7 +18,7 @@ Contio는 양재 언남고등학교 앞에 있는 분위기 좋은 카페입니�
 </span>  
 
 > <span style="color:silver">
-TBD
+'Contio' is the cafe in-front-of the Un-nam high school and the place that I get refreshd. At thd end of weekend, I painted with a cup of coffee.
 </span>
 
 ![contio]({{site.baseurl}}/assets/img/workplace/20200308/contio.jpg){: .center}
@@ -41,9 +41,9 @@ Because color was not spread naturally and it was expressed like mosaic.
 한장 더 그려본 단풍 나무는 그래도 마음에 듭니다.
 따뜻한 기운이 퍼져나가는 느낌이 잘 표현된거 같아 만족스럽습니다.
 </span>
-I like this maple tree which I tried to paint one more. Because I think I expressed well that warm feeling is spreaded. I'm really satisfied.
+
 > <span style="color:silver">
-TBD
+I like this maple tree which I tried to paint one more. Because I think I expressed well that warm feeling is spreaded. I'm really satisfied.
 </span>
 
 ![maple]({{site.baseurl}}/assets/img/workplace/20200308/flower.jpg){: .center}
