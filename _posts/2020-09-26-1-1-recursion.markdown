@@ -20,9 +20,9 @@ void func(...) {
 {% endhighlight %}
    
 ### Recursion의 구성   
-* Base case   
+* Base case
   * 적어도 하나의 Recursion에 빠지지 않는 Case가 존재해야 한다.   
-* Recursion case   
+* Recursion case
   * Recursion을 수행하다 보면 결국 Base case로 수렴 해야한다.   
 {% highlight c %}
 void func(int k) {
@@ -92,8 +92,19 @@ GCD(q, p%q) otherwise
     
 
 ### Recursive thinking
-### Designing recursive
+#### Example)
+* 문자열 계산하기   
 
+### Designing recursive
+#### Example)
+* 순차탐색   
+* Binary search
+
+### Example
+#### Maze
+#### Counting cells in a blob
+#### N-Queens
+#### Power set
 
 **<center><span style="color:navy">Recursion</span></center>**  
 
