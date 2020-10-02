@@ -3,7 +3,7 @@ layout: post
 title: 1-1 Recursion
 date: 2020-09-26 13:25:20 +0300
 description: Algorithm 1-1 Recursion
-img: workplace/20200225/title.jpg
+img: learning/algorithm.png
 category: [Learning]
 tags: [Algorithm, Recursion]
 author: Alex2006
