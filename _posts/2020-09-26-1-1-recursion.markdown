@@ -50,7 +50,8 @@ b) 임의의 양의 정수 k에 대해서 n < k 인 경우 0~n 까지의 합을 
 c) n = k 인 경우 func(k-1)을 호출 -> 2.의 가정에 의해 0~k-1까지 합을 올바르게 구한다.   
 d) func는 이 값에 n을 더해 반환하므로 OK.   
     
-    
+    
+    
 * Factorial   
 {% highlight c %}
 int factorial(int n) {
@@ -60,9 +61,10 @@ int factorial(int n) {
 {% endhighlight %}
 > 
 0! = 1   
-n! = n*(n - 1)! (n > 0)   
-    
-    
+n! = n*(n - 1)! (n > 0)    
+    
+	
+    
 * Fibonachi   
 {% highlight c %}
 int fibonachi(int n) {
@@ -75,8 +77,9 @@ f<sub>0</sub> = 0  
 f<sub>1</sub> = 1   
 f<sub>2</sub> = f<sub>n-1</sub> + f<sub>n-2</sub>
     
-    
-* G.C.D     
+    
+    
+* G.C.D     
 {% highlight c %}
    if(q == 2) return p;
    else return GCD(q, p%q);
@@ -87,19 +90,70 @@ f<sub>2</sub> = f<sub>n-1</sub> + f<sub>n-2</sub>
 {% endhighlight %}
 > 
 p (q ==0)    
-GCD(q, p%q) otherwise    
-    
-    
-
-### Recursive thinking
+GCD(q, p%q) otherwise
+	
+    
+### Recursive thinking    
 #### Example)
-* 문자열 계산하기   
-
+* 문자열 계산하기    
+  * "[0] + [1]~~[n]" == "1  + 문자열 길이" == "총 문자열의 길이"    
+  * Idea : 첫번째 글자부터 하나씩 차례대로 세어 나간다. == 총 문자열의 길이는 첫번째 문자를 제외한 문자열 길이 + 1    
+{% highlight c %}
+int StringLength(string str) {
+   if(str == "") return 0;
+   else return StringLength(Substr(str, 1)) + 1;
+}
+{% endhighlight %}
+* 모든 Recursion은 Iteration으로 변경 가능
+* 그 역도 성립하므로 즉 Iteration은 Recursion으로 변경 가능
+  * <span style="color:blue">알고리즘을 단순하고 명쾌하게 표현가능하나 함수 호출에 대한 Overhead가 발생.</span>
+	
+    
 ### Designing recursive
+#### <span style="color:red">적어도 하나의 Base case,</span> 즉 순환되지 않고 종료되는 Case가 존재해야 한다.
+#### 모든 Case는 결국 Base case로 <span style="color:red">수렴</span>해야 한다.
+#### <span style="color:blue">암시적(Implicit) 매개변수를</span><span style="color:red"> 명시적(explicit)으로 바꾸어 사용한다.</span>
 #### Example)
-* 순차탐색   
-* Binary search
+* 순차탐색
 
+>
+iteration case    
+데이터의 범위에 대해 시작 index 0은 생략(n만 존재) -> 암시적 매개변수
+{% highlight c %}
+int search(int[] data, int n, int target) {
+   for(int i=0; i<n; i++)
+      if(data[i] == target) return i;
+   return -1;
+}
+{% endhighlight %}
+>
+recursion case    
+데이터의 범위에 대해 시작(begin)과 끝(end)을 명시 -> 명시적 매개변수
+{% highlight c %}
+int search(int[] data, int begin, int end, int target) {
+   if(begin > end) return -1;
+   else if(target == data[begin]) return begin;
+   else return search(data, begin + 1, end, ratget);
+}
+{% endhighlight %}
+   
+   
+* Binary search
+{% highlight c %}
+int BinarySearch(int[] items, int begin, int end, int target) {
+   if(begin > end) return -1;
+   else {
+      int mid = (begin + end) / 2, cmpRes = target.CompareTo(items[mid]);
+	  
+	  if(cmpRes ==0) return mid;
+	  else if(cmpRes < 0) return binarySearch(items, begin, mid-1, target);
+	  else return bianrySearch(items, mid+1, end, target);
+   }
+}
+{% endhighlight %}
+    
+    
+    
 ### Example
 #### Maze
 #### Counting cells in a blob
