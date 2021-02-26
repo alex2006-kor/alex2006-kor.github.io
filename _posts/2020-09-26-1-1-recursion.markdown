@@ -13,18 +13,18 @@ author: Alex2006
 ------
 ## 1-1 Recursion   
 ### Resursion : 자기 자신을 호출(재귀호출)   
-{% highlight c %}
+```{.cpp}
 void func(...) {
     func(...); // Infinite loop에 빠지지 않도록 최소 1개의 Base case(기저)가 있어야 한다.
 }
-{% endhighlight %}
+```
    
 ### Recursion의 구성   
 * Base case
   * 적어도 하나의 Recursion에 빠지지 않는 Case가 존재해야 한다.   
 * Recursion case
   * Recursion을 수행하다 보면 결국 Base case로 수렴 해야한다.   
-{% highlight c %}
+```{.cpp}
 void func(int k) {
     if (k <= 0) {
         return;      // Base case
@@ -34,16 +34,16 @@ void func(int k) {
         func(k - 1); // Recursion
     }
 }
-{% endhighlight %}    
+```
     
 #### Example)
 * 1~n까지의 수 더하기
-{% highlight c %}
+```{.cpp}
 int func(int n) {
    if(n == 0) return 0;         // n이 0이라면 합은 0이다.
    else return n + func(n - 1); // n이 0보다 크면 0~n까지의 합은 0~n-1까지의 합 + n 이다.
 }
-{% endhighlight %}
+```
 > __증명__   
 a) n = 0 인 경우 0을 return한다.   
 b) 임의의 양의 정수 k에 대해서 n < k 인 경우 0~n 까지의 합을 올바르게 계산한다고 가정.   
@@ -53,12 +53,12 @@ d) func는 이 값에 n을 더해 반환하므로 OK.
     
     
 * Factorial   
-{% highlight c %}
+```{.cpp}
 int factorial(int n) {
    if(n == 0) return 1;
    else return n * factorial(n - 1);
 }
-{% endhighlight %}
+```
 > 
 0! = 1   
 n! = n*(n - 1)! (n > 0)    
@@ -66,12 +66,12 @@ n! = n*(n - 1)! (n > 0)    
 	
     
 * Fibonachi   
-{% highlight c %}
+```{.cpp}
 int fibonachi(int n) {
    if(n < 2) return n;
    else return fibonachi(n - 1) * fibonachi(n - 2);
 }
-{% endhighlight %}
+```
 > 
 f<sub>0</sub> = 0    
 f<sub>1</sub> = 1   
@@ -80,14 +80,14 @@ f<sub>2</sub> = f<sub>n-1</sub> + f<sub>n-2</sub>
     
     
 * G.C.D     
-{% highlight c %}
+```{.cpp}
    if(q == 2) return p;
    else return GCD(q, p%q);
    
    if(m < n) swap(m, n);
    if(m%n == 0) return n;
    else return GCD(n, m%n);
-{% endhighlight %}
+```
 > 
 p (q ==0)    
 GCD(q, p%q) otherwise
@@ -98,12 +98,12 @@ GCD(q, p%q) otherwise
 * 문자열 계산하기    
   * "[0] + [1]~~[n]" == "1  + 문자열 길이" == "총 문자열의 길이"    
   * Idea : 첫번째 글자부터 하나씩 차례대로 세어 나간다. == 총 문자열의 길이는 첫번째 문자를 제외한 문자열 길이 + 1    
-{% highlight c %}
+```{.cpp}
 int StringLength(string str) {
    if(str == "") return 0;
    else return StringLength(Substr(str, 1)) + 1;
 }
-{% endhighlight %}
+```
 * 모든 Recursion은 Iteration으로 변경 가능
 * 그 역도 성립하므로 즉 Iteration은 Recursion으로 변경 가능
   * <span style="color:blue">알고리즘을 단순하고 명쾌하게 표현가능하나 함수 호출에 대한 Overhead가 발생.</span>
@@ -119,27 +119,27 @@ int StringLength(string str) {
 >
 iteration case    
 데이터의 범위에 대해 시작 index 0은 생략(n만 존재) -> 암시적 매개변수
-{% highlight c %}
+```{.cpp}
 int search(int[] data, int n, int target) {
    for(int i=0; i<n; i++)
       if(data[i] == target) return i;
    return -1;
 }
-{% endhighlight %}
+```
 >
 recursion case    
 데이터의 범위에 대해 시작(begin)과 끝(end)을 명시 -> 명시적 매개변수
-{% highlight c %}
+```{.cpp}
 int search(int[] data, int begin, int end, int target) {
    if(begin > end) return -1;
    else if(target == data[begin]) return begin;
    else return search(data, begin + 1, end, ratget);
 }
-{% endhighlight %}
+```
    
    
 * Binary search
-{% highlight c %}
+```{.cpp}
 int BinarySearch(int[] items, int begin, int end, int target) {
    if(begin > end) return -1;
    else {
@@ -150,7 +150,7 @@ int BinarySearch(int[] items, int begin, int end, int target) {
 	  else return bianrySearch(items, mid+1, end, target);
    }
 }
-{% endhighlight %}
+```
     
     
     
