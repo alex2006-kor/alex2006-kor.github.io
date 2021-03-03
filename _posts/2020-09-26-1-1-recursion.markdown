@@ -14,11 +14,11 @@ author: Alex2006
 ## 1-1 Recursion   
 ### Resursion : 자기 자신을 호출(재귀호출)   
 
-```c++
+{% highlight c %}
 void func(...) {
     func(...); // Infinite loop에 빠지지 않도록 최소 1개의 Base case(기저)가 있어야 한다.
 }
-``\`
+{% endhighlight %}
    
 ### Recursion의 구성   
 * Base case
