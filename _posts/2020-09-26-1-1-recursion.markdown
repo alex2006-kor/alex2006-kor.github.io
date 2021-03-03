@@ -11,15 +11,16 @@ author: Alex2006
   
   
 ------
-## 1-1 Recursion   
-### Resursion : 자기 자신을 호출(재귀호출)   
-{% highlight c %}
+## 1-1 Recursion   
+### Resursion : 자기 자신을 호출(재귀호출)   
+
+```c++
 void func(...) {
     func(...); // Infinite loop에 빠지지 않도록 최소 1개의 Base case(기저)가 있어야 한다.
 }
-{% endhighlight %}
-   
-### Recursion의 구성   
+```
+   
+### Recursion의 구성   
 * Base case
   * 적어도 하나의 Recursion에 빠지지 않는 Case가 존재해야 한다.   
 * Recursion case
@@ -34,8 +35,8 @@ void func(int k) {
         func(k - 1); // Recursion
     }
 }
-{% endhighlight %}    
-    
+{% endhighlight %}    
+    
 #### Example)
 * 1~n까지의 수 더하기
 {% highlight c %}
@@ -50,9 +51,9 @@ b) 임의의 양의 정수 k에 대해서 n < k 인 경우 0~n 까지의 합을 
 c) n = k 인 경우 func(k-1)을 호출 -> 2.의 가정에 의해 0~k-1까지 합을 올바르게 구한다.   
 d) func는 이 값에 n을 더해 반환하므로 OK.   
     
-    
-    
-* Factorial   
+    
+    
+* Factorial   
 {% highlight c %}
 int factorial(int n) {
    if(n == 0) return 1;
@@ -61,11 +62,11 @@ int factorial(int n) {
 {% endhighlight %}
 > 
 0! = 1   
-n! = n*(n - 1)! (n > 0)    
-    
+n! = n*(n - 1)! (n > 0)    
+    
 	
-    
-* Fibonachi   
+    
+* Fibonachi   
 {% highlight c %}
 int fibonachi(int n) {
    if(n < 2) return n;
@@ -73,13 +74,13 @@ int fibonachi(int n) {
 }
 {% endhighlight %}
 > 
-f<sub>0</sub> = 0    
+f<sub>0</sub> = 0    
 f<sub>1</sub> = 1   
 f<sub>2</sub> = f<sub>n-1</sub> + f<sub>n-2</sub>
     
-    
-    
-* G.C.D     
+    
+    
+* G.C.D     
 {% highlight c %}
    if(q == 2) return p;
    else return GCD(q, p%q);
@@ -92,12 +93,12 @@ f<sub>2</sub> = f<sub>n-1</sub> + f<sub>n-2</sub>
 p (q ==0)    
 GCD(q, p%q) otherwise
 	
-    
-### Recursive thinking    
+    
+### Recursive thinking    
 #### Example)
-* 문자열 계산하기    
-  * "[0] + [1]~~[n]" == "1  + 문자열 길이" == "총 문자열의 길이"    
-  * Idea : 첫번째 글자부터 하나씩 차례대로 세어 나간다. == 총 문자열의 길이는 첫번째 문자를 제외한 문자열 길이 + 1    
+* 문자열 계산하기    
+  * "[0] + [1]~~[n]" == "1  + 문자열 길이" == "총 문자열의 길이"    
+  * Idea : 첫번째 글자부터 하나씩 차례대로 세어 나간다. == 총 문자열의 길이는 첫번째 문자를 제외한 문자열 길이 + 1    
 {% highlight c %}
 int StringLength(string str) {
    if(str == "") return 0;
@@ -108,7 +109,7 @@ int StringLength(string str) {
 * 그 역도 성립하므로 즉 Iteration은 Recursion으로 변경 가능
   * <span style="color:blue">알고리즘을 단순하고 명쾌하게 표현가능하나 함수 호출에 대한 Overhead가 발생.</span>
 	
-    
+    
 ### Designing recursive
 #### <span style="color:red">적어도 하나의 Base case,</span> 즉 순환되지 않고 종료되는 Case가 존재해야 한다.
 #### 모든 Case는 결국 Base case로 <span style="color:red">수렴</span>해야 한다.
@@ -136,8 +137,8 @@ int search(int[] data, int begin, int end, int target) {
    else return search(data, begin + 1, end, ratget);
 }
 {% endhighlight %}
-   
-   
+   
+   
 * Binary search
 {% highlight c %}
 int BinarySearch(int[] items, int begin, int end, int target) {
@@ -155,7 +156,7 @@ int BinarySearch(int[] items, int begin, int end, int target) {
     
     
 ### Example
-#### Maze
+#### [Maze](https://github.com/alex2006-kor/ProblemSolving/blob/master/00_ACMICPC/14923/maze.markdown)
 #### Counting cells in a blob
 #### N-Queens
 #### Power set
