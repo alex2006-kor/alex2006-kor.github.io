@@ -39,6 +39,6 @@ I lose my confidence. Becasue I think I made Alps' clean and pure landscape to c
 </span>
 
 > <span style="color:silver">
-For a while, I think I will can't paint landscape......
+For a while, I think I will not paint landscape......
 </span>
 ------
