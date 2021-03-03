@@ -38,7 +38,11 @@ paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
-	
+
+kramdown:
+	input: GFM
+	syntax_hightlighter: rouge
+
 plugins:
   - jekyll-paginate
   - jekyll-feed
