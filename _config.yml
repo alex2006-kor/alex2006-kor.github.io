@@ -38,7 +38,11 @@ paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
-syntax_hightlighter: rouge
+kramdown:
+ highlighter: rouge
+ syntax_highlighter_opts:
+ block:
+ line_numbers: true
 
 plugins:
   - jekyll-paginate
