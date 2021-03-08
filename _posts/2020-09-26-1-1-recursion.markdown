@@ -79,8 +79,8 @@ f<sub>2</sub> = f<sub>n-1</sub> + f<sub>n-2</sub>
     
     
     
-* G.C.D     
-m >= n 인 두 양수 m, n에 대하여 m이 n의 배수이면   
+* G.C.D  
+m >= n 인 두 양수 m, n에 대하여 m이 n의 배수이면   
 GCD(m, n) = n 이 아니라면 GCD(m, n) = GCD(n, m%n) 이다.
 {% highlight c %}
    if(q == 2) return p;
