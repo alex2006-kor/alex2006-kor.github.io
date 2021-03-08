@@ -39,8 +39,8 @@ void func(int k) {
 #### Example)
 * 1~n까지의 수 더하기
 {% highlight cpp %}
-int func(int n) {               // 이 함수의 Missuion은 1~n 까지의 합을 구하는 것이다.
-   if(n == 0) return 0;         // n이 0이라면 합은 0이다.
+int func(int n) {               // 이 함수의 Missuion은 1~n 까지의 합을 구하는 것이다.
+   if(n == 0) return 0;         // n이 0이라면 합은 0이다.
    else return n + func(n - 1); // n이 0보다 크면 0~n까지의 합은 0~n-1까지의 합 + n 이다.
 }
 {% endhighlight %}
@@ -91,7 +91,7 @@ f<sub>2</sub> = f<sub>n-1</sub> + f<sub>n-2</sub>
    else return GCD(n, m%n);
 {% endhighlight %}
 > 
-p (q ==0)    
+p (q == 0)    
 GCD(q, p%q) otherwise
 	
     
