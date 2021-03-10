@@ -157,8 +157,8 @@ int BinarySearch(int[] items, int begin, int end, int target) {
     
     
 ### Example
-#### [Maze](https://github.com/alex2006-kor/ProblemSolving/blob/master/00_ACMICPC/14923/maze.markdown)
-#### Counting cells in a blob
+#### [Maze](https://github.com/alex2006-kor/ProblemSolving/blob/master/00_UNCATEGORIZED/maze.markdown)
+#### [Counting cells in a blob](https://github.com/alex2006-kor/ProblemSolving/blob/master/00_UNCATEGORIZED/blob.markdown)
 #### N-Queens
 #### Power set
 
