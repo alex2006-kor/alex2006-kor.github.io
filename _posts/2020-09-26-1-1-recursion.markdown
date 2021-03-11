@@ -165,6 +165,7 @@ int BinarySearch(int[] items, int begin, int end, int target) {
 ### Problem
  * [ACMICPC : 하노이의 탑 이동순서](https://www.acmicpc.net/problem/11729)
  * [ACMICPC : N-Queen](https://www.acmicpc.net/problem/3344)
+ * [ACMICPC : 자리배정](https://www.acmicpc.net/problem/10157)
  * [LEETCODE : Add two number](https://leetcode.com/problems/add-two-numbers/description/)
  * [LEETCODE : N-th Tribonacci](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 
