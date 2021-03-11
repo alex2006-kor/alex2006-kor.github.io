@@ -56,7 +56,7 @@ d) func는 이 값에 n을 더해 반환하므로 OK.
 {% highlight cpp %}
 int factorial(int n) {
    if(n == 0) return 1;
-   else return n * factorial(n - 1);
+   else return n + factorial(n - 1);
 }
 {% endhighlight %}
 > 
