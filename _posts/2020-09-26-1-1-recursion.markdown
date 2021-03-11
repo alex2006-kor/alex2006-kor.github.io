@@ -161,6 +161,12 @@ int BinarySearch(int[] items, int begin, int end, int target) {
 #### [Counting cells in a blob](https://github.com/alex2006-kor/ProblemSolving/blob/master/00_UNCATEGORIZED/blob.markdown)
 #### N-Queens
 #### Power set
+  
+### Problem
+#### [ACMICPC : 하노이의 탑 이동순서](https://www.acmicpc.net/problem/11729)
+#### [ACMICPC : N-Queen](https://www.acmicpc.net/problem/3344)
+#### [LEETCODE : Add two number](https://leetcode.com/problems/add-two-numbers/description/)
+#### [LEETCODE : N-th Tribonacci](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 
 **<center><span style="color:navy">Recursion</span></center>**  
 
